@@ -22,6 +22,7 @@ public class AutowiredController {
 
 
 	@GetMapping
+	//conflit two
 	public String fetchDogCharacteristics() {
 		return animal.characteristics();
 	}
