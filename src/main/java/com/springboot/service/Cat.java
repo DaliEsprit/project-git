@@ -9,7 +9,7 @@ public class Cat implements Animal {
 
 	@Override
 	public String characteristics() {
-		return "Meow";
+		return "test conflit";
 	}
 
 }
