@@ -9,7 +9,7 @@ public class Cat implements Animal {
 
 	@Override
 	public String characteristics() {
-		// TODO Auto-generated method stub
+		//test conflit
 		return "Meow";
 	}
 
